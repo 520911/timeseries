@@ -1,1 +1,3 @@
-# timeseries
+# Временные ряды
+1. Анализ временных рядов, приведение их к стационарности [ссылка](https://github.com/520911/timeseries/blob/main/TS_1.ipynb)
+
